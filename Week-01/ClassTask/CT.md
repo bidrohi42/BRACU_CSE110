@@ -1,4 +1,4 @@
-# Week-01; CLass Task
+# Week-01; Class Task
 
 ### Task-03: Write Java code that calculates and prints the circumference and area of a circle with a radius of 4 units.
 
@@ -20,6 +20,8 @@ Expected Output:
 ```
 
 ### Task-06: Write a Java program declaring two integer variables and initializing them. Your task is to swap the values of these two variables. You must complete it using two different approaches.
-    a. By creating a third variable. 
-    b. Without creating any other variables.
+
+a. By creating a third variable.
+
+b. Without creating any other variables.
 
